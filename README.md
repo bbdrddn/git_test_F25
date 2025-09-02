@@ -3,4 +3,6 @@ git_test repo from The Odin Project we retry in Fall 2025. started Sept. 3rd 202
 
 
 
-Hello Odin !
+Hello Odin ! 
+
+Nghe bai trinh chua ???
